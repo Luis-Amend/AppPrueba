@@ -257,3 +257,4 @@ C:\Users\LENOVO\OneDrive\Desktop\AppDePruebas\AppPrueba\obj\Debug\net8.0\refint\
 C:\Users\LENOVO\OneDrive\Desktop\AppDePruebas\AppPrueba\obj\Debug\net8.0\AppPrueba.pdb
 C:\Users\LENOVO\OneDrive\Desktop\AppDePruebas\AppPrueba\obj\Debug\net8.0\AppPrueba.genruntimeconfig.cache
 C:\Users\LENOVO\OneDrive\Desktop\AppDePruebas\AppPrueba\obj\Debug\net8.0\ref\AppPrueba.dll
+C:\Users\LENOVO\OneDrive\Desktop\AppDePruebas\AppPrueba\obj\Debug\net8.0\AppPrueba.sourcelink.json

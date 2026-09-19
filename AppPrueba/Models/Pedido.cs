@@ -12,7 +12,7 @@ public class Pedido
     public string? Email { get; set; }
     public string? Fecha { get; set; }
     public string? Estado { get; set; }
-    public string? PrecioTotal { get; set; }
+    public decimal? PrecioTotal { get; set; }
 
 
     public ICollection<DetallePedido>? DetallePedidos { get; set; }

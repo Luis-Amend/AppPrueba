@@ -6,8 +6,8 @@ public class DetallePedido
 {
     [Key]
     public int DetallePedidoId { get; set; }
-    public string? Cantidad { get; set; }
-    public string? Subtotal { get; set; }
+    public int? Cantidad { get; set; }
+    public decimal? Subtotal { get; set; }
 
 
     public virtual Pedido? Pedido { get; set; }

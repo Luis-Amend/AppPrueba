@@ -7,12 +7,12 @@ public class Auto
     [Key]
     public int AutoId { get; set; }
     public string? Nombre { get; set; }
-    public string? Modelo { get; set; }
+    public int? Modelo { get; set; }
     public string? Color { get; set; }
     public string? Traccion { get; set; }
     public string? Transmision { get; set; }
-    public string? kilometraje { get; set; }
-    public string? Precio { get; set; }
+    public int? Kilometraje { get; set; }
+    public decimal? Precio { get; set; }
     public bool? Estado { get; set; }
 
     public virtual MarcaAuto? Marca { get; set; }
