@@ -14,6 +14,8 @@ public class Auto
     public int? Kilometraje { get; set; }
     public decimal? Precio { get; set; }
     public bool? Estado { get; set; }
+    public string? Imagen { get; set; }
+    public int? Stock { get; set; }
 
     public virtual MarcaAuto? Marca { get; set; }
     public int MarcaId { get; set; }
